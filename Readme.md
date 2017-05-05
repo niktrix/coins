@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.org/niktrix/coins.svg?branch=master)](https://travis-ci.org/niktrix/coins)
 modules uses \n
 npm install request \n
 npm install socket.io
